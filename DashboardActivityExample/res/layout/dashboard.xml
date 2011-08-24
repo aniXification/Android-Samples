@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+ 
+    <com.samcoles.layout.DashboardLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+ 
+        <Button android:id="@+id/dashboard_button_one"
+            style="@style/DashboardButton"
+            android:text="@string/activity_one"
+            android:drawableTop="@drawable/dashboard_button_add" />
+ 
+        <Button android:id="@+id/dashboard_button_two"
+            style="@style/DashboardButton"
+            android:text="@string/activity_two"
+            android:drawableTop="@drawable/dashboard_button_add" />
+ 
+        <Button android:id="@+id/dashboard_button_three"
+            style="@style/DashboardButton"
+            android:text="@string/activity_three"
+            android:drawableTop="@drawable/dashboard_button_add" />
+ 
+        <Button android:id="@+id/dashboard_button_four"
+            style="@style/DashboardButton"
+            android:text="@string/activity_four"
+            android:drawableTop="@drawable/dashboard_button_add" />  
+            
+        <Button android:id="@+id/dashboard_button_five"
+            style="@style/DashboardButton"
+            android:text="@string/activity_five"
+            android:drawableTop="@drawable/dashboard_button_add" /> 
+            
+        <Button android:id="@+id/dashboard_button_six"
+            style="@style/DashboardButton"
+            android:text="@string/activity_six"
+            android:drawableTop="@drawable/dashboard_button_add" />  
+ 
+    </com.samcoles.layout.DashboardLayout>
+ 
+</LinearLayout>

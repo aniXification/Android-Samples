@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DashboardActivityExampleActivity!</string>
+    <string name="app_name">DashboardActivityExample</string>
+    <string name="activity_one">Activity One</string>
+    <string name="activity_two">Activity Two</string>
+    <string name="activity_three">Activity Three</string>
+    <string name="activity_four">Activity Four</string>
+    <string name="activity_five">Activity Five</string>
+    <string name="activity_six">Activity Six</string>
+</resources>
