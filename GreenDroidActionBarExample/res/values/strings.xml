@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GreenDroidActionBarExampleActivity!</string>
+    <string name="app_name">GreenDroidActionBarExample</string>
+    <string name="app_url">http://www.samcoles.co.uk</string>
+    <string name="info_activity_title">App Info</string>
+</resources>
